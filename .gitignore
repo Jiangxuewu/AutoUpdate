@@ -1,0 +1,8 @@
+*.iml
+.gradle
+/local.properties
+.DS_Store
+/build
+/mtinker/build
+/captures
+.externalNativeBuild
